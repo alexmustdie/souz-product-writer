@@ -1,0 +1,12 @@
+{
+  "name": "Прибор без паспорта",
+  "manufacturer": "",
+  "specs": {
+    "Питание": null
+  },
+  "description": "",
+  "expected_specs": [
+    "Диапазон измерений",
+    "Питание"
+  ]
+}
